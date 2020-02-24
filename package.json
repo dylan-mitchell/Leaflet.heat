@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint": "^1.7.3",
     "eslint-config-mourner": "^1.0.1",
-    "simpleheat": "github:Bengreen/simpleheat",
+    "simpleheat": "github:Bengreen/simpleheat#guard_against_zero_width_and_height",
     "uglify-js": "^2.5.0"
   },
   "eslintConfig": {
